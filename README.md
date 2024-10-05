@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamed Naufal</h1>
-<h3 align="center">A passionate UI/UX Designer and Web Developer from India</h3>
+<h3 align="center">A passionate Data Scientist(With ML Focus), Data Analyst, UI/UX Designer and web Developer from India</h3>
 
-- 🌱 I’m currently learning **Reactjs, expressjs**
+- 🌱 I’m currently learning **Python ML Libraries**
 
-- 👨‍💻 All of my projects are available at [https://mohamed-naufal-portfolio.framer.website/](https://mohamed-naufal-portfolio.framer.website/)
+- 👨‍💻 All of my projects are available at [https://md-naufal.github.io/Data-scientist-portfolio/](https://md-naufal.github.io/Data-scientist-portfolio/)
 
 - 📫 How to reach me **mohamednaufal600@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11vGWRde47wjVwIkVsKvv88Y6hFNvwver/view?usp=drive_link](https://drive.google.com/file/d/11vGWRde47wjVwIkVsKvv88Y6hFNvwver/view?usp=drive_link)
 
-- ⚡ Fun fact **I love Designing**
+- ⚡ Fun fact **I love Designing and love playing with Datas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
